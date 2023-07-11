@@ -1,6 +1,4 @@
-package com.imagine;
-
-import javax.xml.stream.FactoryConfigurationError;
+package singleton;
 
 /**
  * @author imagine
